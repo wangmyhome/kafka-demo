@@ -42,7 +42,7 @@
 
 ### ==1.5kafka基础架构==
 
-![image-20201203101225615](C:\Users\ShanPeng\AppData\Roaming\Typora\typora-user-images\image-20201203101225615.png)
+![](E:\liunx系统学习\project-source\kafka-demo\src\image\kafka架构.png)
 
 ## 第二章 安装配置kafka
 
